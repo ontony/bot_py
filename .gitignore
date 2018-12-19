@@ -1,0 +1,5 @@
+*.log
+first.py
+settings.py
+*.DS_Store
+*.vscode
